@@ -1,6 +1,6 @@
 # Proyecto ETL
 
-¡Bienvenido a este proyecto de ETL (Extracción, Transformación, Carga)! Este repositorio contiene un Jupyter Notebook que te guía a través del proceso de gestionar tuberías de datos de manera efectiva. Aquí tienes un resumen de lo que encontrarás y cómo sacarle el máximo provecho.
+¡Bienvenido a este proyecto de ETL (Extracción, Transformación, Carga)! Este repositorio contiene un Jupyter Notebook que te guía a través del proceso de gestionar  datos de manera efectiva. Aquí tienes un resumen de lo que encontrarás y cómo sacarle el máximo provecho.
 
 ## 🌟 Características
 
