@@ -55,18 +55,3 @@ El notebook incluye:
 - Tablas que resumen estadísticas clave.
 - Registros e información de depuración para garantizar transparencia.
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Siéntete libre de bifurcar este repositorio y enviar una solicitud de extracción con tus mejoras.
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## 🙌 Agradecimientos
-
-Un agradecimiento especial a todos los colaboradores y a la comunidad de código abierto por su apoyo para hacer posible este proyecto.
-
----
-
-¡Feliz programación! Si tienes alguna pregunta o comentario, no dudes en abrir un issue o ponerte en contacto a través de [tu información de contacto].
